@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight&family=Lato&family=Pangolin&family=Patrick+Hand&family=Sora:wght@300&display=swap');
+
+html {
+    background-color: rgb(39, 39, 39);
+    overflow-x: hidden;
+}
+
+body {  
+    font-family: 'Inter Tight', sans-serif;
+    color: rgb(255,255,255);
+}
+
+.navbar {
+    position: fixed;
+    padding: 16px 20px;
+    text-align: center;
+    margin-left: 540.5px;
+}
+
+.navbar a {
+    color: rgb(228, 225, 225);
+    padding: 30px 75px;
+    font-size: 33px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+.achievements-1{
+    position: fixed;
+    font-size: 30px;
+    margin-top: 250px;
+    margin-left: 400px;
+}
+
+.achievements-2{
+    position: fixed;
+    font-size: 30px;
+    margin-top: 250px;
+    margin-left: 1100px;
+}
+
+.achievements-3{
+    position: fixed;
+    font-size: 30px;
+    margin-top: 375px;
+    margin-left: 825px;
+}

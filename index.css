@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight&family=Lato&family=Pangolin&family=Patrick+Hand&family=Sora:wght@300&display=swap');
+
+html {
+    background-color: rgb(39, 39, 39);
+    overflow-x: hidden;
+}
+
+body {  
+    font-family: 'Inter Tight', sans-serif;
+    color: rgb(255,255,255);
+}
+
+.navbar {
+    position: fixed;
+    padding: 16px 20px;
+    text-align: center;
+    margin-left: 540.5px;
+}
+
+.navbar a {
+    color: rgb(228, 225, 225);
+    padding: 30px 75px;
+    font-size: 33px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+.stevejobs-quote {
+    position: fixed;
+    text-shadow: 5px 5px black;
+    text-align: center;
+    margin-top: 300px;
+    margin-left: 625px;
+    font-size: 120px;
+}
+
+.stevejobs-quote-by {
+    position: fixed;    
+    text-shadow: 5px 5px black;
+    margin-top: 600px;
+    margin-left: 1000px;
+    text-align: center;
+    font-size: 50px;
+}
